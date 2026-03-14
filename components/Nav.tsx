@@ -81,9 +81,8 @@ export default function Nav() {
         {/* Mobile hamburger — 3rd column, right-aligned */}
         <button
           className="flex sm:hidden"
-          style={{ marginLeft: "auto" }}
+          style={{ marginLeft: "auto", background: "none", border: "none", cursor: "pointer", flexDirection: "column", gap: "5px", padding: "4px" }}
           onClick={() => setMenuOpen(!menuOpen)}
-          style={{ background: "none", border: "none", cursor: "pointer", flexDirection: "column", gap: "5px", padding: "4px" }}
           aria-label="Toggle menu"
         >
           {[0, 1, 2].map((i) => (
