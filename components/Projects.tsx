@@ -9,7 +9,7 @@ const projects = [
     description:
       "Team dynamics analytics platform. Managers distribute surveys via email and visualize team relationship networks through an interactive dashboard.",
     stack: ["Next.js", "MongoDB", "TypeScript", "Docker", "Clerk"],
-    github: "https://github.com/eduardo-r-rodrigues/t10-proj-fluimap",
+    github: "https://github.com/caBatista/fluimap",
     demo: null,
     badge: null,
   },
@@ -19,7 +19,7 @@ const projects = [
     description:
       "Social media platform for peer feedback and reward tracking. Led the team as Team Leader — concept, Figma design, tech stack decisions, and fullstack development.",
     stack: ["Next.js", "React", "MySQL"],
-    github: "https://github.com/eduardo-r-rodrigues/feedbackz",
+    github: "https://github.com/Hackatona-2025",
     demo: null,
     badge: "10th Hackathon PUCRS · 2025",
   },
@@ -29,7 +29,7 @@ const projects = [
     description:
       "Academic project exploring distributed microservices with independent deployable services, inter-service communication patterns, and modular system design.",
     stack: ["Java", "Spring Boot", "JavaScript"],
-    github: "https://github.com/eduardo-r-rodrigues/software-architecture-microservices",
+    github: "https://github.com/eduardo-r-rodrigues/t1-projarq-pucrs",
     demo: null,
     badge: "PUCRS · Academic",
   },
